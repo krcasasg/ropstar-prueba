@@ -1,0 +1,65 @@
+false
+false
+{"id":81,"name":"G\u00e9nero","slug":"pa_genero","type":"select","order_by":"menu_order","has_archives":true}
+{"genres":[{"id":28,"name":"Acci\u00f3n"},{"id":12,"name":"Aventura"},{"id":16,"name":"Animaci\u00f3n"},{"id":35,"name":"Comedia"},{"id":80,"name":"Crimen"},{"id":99,"name":"Documental"},{"id":18,"name":"Drama"},{"id":10751,"name":"Familia"},{"id":14,"name":"Fantas\u00eda"},{"id":36,"name":"Historia"},{"id":27,"name":"Terror"},{"id":10402,"name":"M\u00fasica"},{"id":9648,"name":"Misterio"},{"id":10749,"name":"Romance"},{"id":878,"name":"Ciencia ficci\u00f3n"},{"id":10770,"name":"Pel\u00edcula de TV"},{"id":53,"name":"Suspense"},{"id":10752,"name":"B\u00e9lica"},{"id":37,"name":"Western"}]}
+error term_id: Taxonomía no válida.
+error term_id: Taxonomía no válida.
+error term_id: Taxonomía no válida.
+error term_id: Taxonomía no válida.
+error term_id: Taxonomía no válida.
+error term_id: Taxonomía no válida.
+error term_id: Taxonomía no válida.
+error term_id: Taxonomía no válida.
+error term_id: Taxonomía no válida.
+error term_id: Taxonomía no válida.
+error term_id: Taxonomía no válida.
+error term_id: Taxonomía no válida.
+error term_id: Taxonomía no válida.
+error term_id: Taxonomía no válida.
+error term_id: Taxonomía no válida.
+error term_id: Taxonomía no válida.
+error term_id: Taxonomía no válida.
+error term_id: Taxonomía no válida.
+error term_id: Taxonomía no válida.
+false
+{"name":"pa_genero","label":"Etiquetas","labels":{"name":"Etiquetas","singular_name":"Etiqueta","search_items":"Buscar etiquetas","popular_items":"Etiquetas populares","all_items":"Todas las etiquetas","parent_item":null,"parent_item_colon":null,"edit_item":"Editar la etiqueta","view_item":"Ver la etiqueta","update_item":"Actualizar la etiqueta","add_new_item":"A\u00f1adir una nueva etiqueta","new_item_name":"Nombre de la nueva etiqueta","separate_items_with_commas":"Separa las etiquetas con comas.","add_or_remove_items":"A\u00f1adir o eliminar etiquetas","choose_from_most_used":"Elige entre las etiquetas m\u00e1s utilizadas","not_found":"No se han encontrado etiquetas.","no_terms":"Sin etiquetas","filter_by_item":null,"items_list_navigation":"Navegaci\u00f3n por la lista de etiquetas","items_list":"Lista de etiquetas","most_used":"M\u00e1s utilizadas","back_to_items":"&larr; Ir a las etiquetas","item_link":"Enlace a la etiqueta","item_link_description":"Un enlace a una etiqueta.","menu_name":"Etiquetas","name_admin_bar":"pa_genero"},"description":"","public":true,"publicly_queryable":true,"hierarchical":false,"show_ui":true,"show_in_menu":true,"show_in_nav_menus":true,"show_tagcloud":true,"show_in_quick_edit":true,"show_admin_column":false,"meta_box_cb":"post_tags_meta_box","meta_box_sanitize_cb":"taxonomy_meta_box_sanitize_cb_input","object_type":["product"],"cap":{"manage_terms":"manage_categories","edit_terms":"manage_categories","delete_terms":"manage_categories","assign_terms":"edit_posts"},"rewrite":{"with_front":true,"hierarchical":false,"ep_mask":0,"0":"","slug":"pa_genero"},"query_var":"pa_genero","update_count_callback":"","show_in_rest":false,"rest_base":false,"rest_controller_class":false,"rest_controller":null,"default_term":null,"sort":null,"args":null,"_builtin":false}
+{"id":82,"name":"G\u00e9nero","slug":"pa_genero","type":"select","order_by":"menu_order","has_archives":true}
+{"genres":[{"id":28,"name":"Acci\u00f3n"},{"id":12,"name":"Aventura"},{"id":16,"name":"Animaci\u00f3n"},{"id":35,"name":"Comedia"},{"id":80,"name":"Crimen"},{"id":99,"name":"Documental"},{"id":18,"name":"Drama"},{"id":10751,"name":"Familia"},{"id":14,"name":"Fantas\u00eda"},{"id":36,"name":"Historia"},{"id":27,"name":"Terror"},{"id":10402,"name":"M\u00fasica"},{"id":9648,"name":"Misterio"},{"id":10749,"name":"Romance"},{"id":878,"name":"Ciencia ficci\u00f3n"},{"id":10770,"name":"Pel\u00edcula de TV"},{"id":53,"name":"Suspense"},{"id":10752,"name":"B\u00e9lica"},{"id":37,"name":"Western"}]}
+term_id: {"term_id":162,"term_taxonomy_id":162}
+term_meta_id: 
+term_id: {"term_id":163,"term_taxonomy_id":163}
+term_meta_id: 
+term_id: {"term_id":164,"term_taxonomy_id":164}
+term_meta_id: 
+term_id: {"term_id":165,"term_taxonomy_id":165}
+term_meta_id: 
+term_id: {"term_id":166,"term_taxonomy_id":166}
+term_meta_id: 
+term_id: {"term_id":167,"term_taxonomy_id":167}
+term_meta_id: 
+term_id: {"term_id":168,"term_taxonomy_id":168}
+term_meta_id: 
+term_id: {"term_id":169,"term_taxonomy_id":169}
+term_meta_id: 
+term_id: {"term_id":170,"term_taxonomy_id":170}
+term_meta_id: 
+term_id: {"term_id":171,"term_taxonomy_id":171}
+term_meta_id: 
+term_id: {"term_id":172,"term_taxonomy_id":172}
+term_meta_id: 
+term_id: {"term_id":173,"term_taxonomy_id":173}
+term_meta_id: 
+term_id: {"term_id":174,"term_taxonomy_id":174}
+term_meta_id: 
+term_id: {"term_id":175,"term_taxonomy_id":175}
+term_meta_id: 
+term_id: {"term_id":176,"term_taxonomy_id":176}
+term_meta_id: 
+term_id: {"term_id":177,"term_taxonomy_id":177}
+term_meta_id: 
+term_id: {"term_id":178,"term_taxonomy_id":178}
+term_meta_id: 
+term_id: {"term_id":179,"term_taxonomy_id":179}
+term_meta_id: 
+term_id: {"term_id":180,"term_taxonomy_id":180}
+term_meta_id: 
